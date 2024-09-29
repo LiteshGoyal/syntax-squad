@@ -11,3 +11,7 @@ Nemit Jindal
 ```
 ### Problem Statement:
 Image Forgery
+
+
+### PPT :
+ppt.txt file
